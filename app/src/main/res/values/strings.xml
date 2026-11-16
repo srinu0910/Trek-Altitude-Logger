@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Trek Altitude Logger</string>
+    <string name="welcome_title">Trek Altitude Logger</string>
+    <string name="welcome_subtitle">Track your hiking elevation, distance, and waypoints</string>
+    <string name="google_sign_in">Sign in with Google</string>
+    <string name="start_new_trek">Start New Trek</string>
+    <string name="view_history">Trek History</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="welcome_hiker">Welcome Hiker!</string>
+    <string name="sign_in_description">Sign in to record elevation gains, track waypoints, and save your mountain treks.</string>
+
+    <string name="enter_trek_name">Enter Trek Name</string>
+    <string name="trek_name_hint">e.g. Mount Rainier Trail</string>
+    <string name="start_trek">Start Trek</string>
+    <string name="add_waypoint">Add Waypoint</string>
+    <string name="finish_trek">Finish Trek</string>
+    <string name="current_altitude">Current Altitude</string>
+    <string name="back">Back</string>
+
+    <string name="trek_summary">Trek Summary</string>
+    <string name="trek_history">Trek History</string>
+    <string name="share_summary">Share Summary</string>
+    <string name="delete_trek">Delete Trek</string>
+    <string name="confirm_delete">Are you sure you want to delete this trek and all its waypoints?</string>
+    <string name="cancel">Cancel</string>
+    <string name="delete">Delete</string>
+
+    <string name="total_distance">Total Distance</string>
+    <string name="total_climb">Total Elevation Gain</string>
+    <string name="highest_altitude">Highest Altitude</string>
+    <string name="lowest_altitude">Lowest Altitude</string>
+    <string name="waypoint_count">Total Waypoints</string>
+    <string name="waypoints_list">Recorded Waypoints</string>
+    <string name="no_waypoints">No waypoints recorded yet. Tap \'Add Waypoint\' to log your position.</string>
+    <string name="no_treks">No treks recorded yet. Start a new trek to track your journey!</string>
+    <string name="fetching_location">Fetching location &amp; elevation…</string>
+</resources>
